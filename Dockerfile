@@ -11,4 +11,4 @@ RUN npm install
 
 # Docker Run Command
 EXPOSE 9031
-CMD [ "node", "server.js" ]
+CMD [ "node", "webserver.js" ]
